@@ -36,7 +36,7 @@ _Website where to learn irregular verbs_
 
 ---
 
-## [https://lowfodmap.xyz/](https://lowfodmap.xyz/)
+## [https://lowfodmap.huckbit.com/](https://lowfodmap.huckbit.com/)
 
 _Lowfodmap diet website where to search for food properties using different query levels_
 
