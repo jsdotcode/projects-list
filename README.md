@@ -1,13 +1,5 @@
 # Max's projects
 
-## [myip.huckbit.com](https://myip.huckbit.com/)
-
-_Check your public ip address_
-
-**Frontend**: React
-
----
-
 ## [extracturls.huckbit.com](https://extracturls.huckbit.com/)
 
 _Website implementation example using the plugin [extract-urls](https://www.npmjs.com/package/extract-urls) I developed and published on npm_
@@ -34,6 +26,17 @@ _Website where to learn irregular verbs_
 
 **Api-endpoint**: [https://iverbapi.herokuapp.com/api](https://iverbapi.herokuapp.com/api)
 
+
+## [iVerb react version](https://iverb.huckbit.com/)
+
+_Website where to learn irregular verbs using react and nextjs_
+
+**Frontend**: React + material UI + styled-components
+
+**Backend**: json file served by nextjs api
+
+**Server**: vercel serveless
+
 ---
 
 ## [https://lowfodmap.huckbit.com/](https://lowfodmap.huckbit.com/)
@@ -55,3 +58,12 @@ _App to save bookmarks - work in progress. Ask for credentials or register a new
 **Frontend**: handlebar within express.js
 
 **Backend**: express.js
+
+
+## [myip.huckbit.com](https://myip.huckbit.com/)
+
+_Check your public ip address_
+
+**Frontend**: React
+
+---
