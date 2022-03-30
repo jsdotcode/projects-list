@@ -27,7 +27,7 @@ _Website where to learn irregular verbs_
 **Api-endpoint**: [https://iverbapi.herokuapp.com/api](https://iverbapi.herokuapp.com/api)
 
 
-## [iVerb react version](https://iverb.huckbit.com/)
+## [iVerb react version](https://iverb.vercel.app/)
 
 _Website where to learn irregular verbs using react and nextjs_
 
