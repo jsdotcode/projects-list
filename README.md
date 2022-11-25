@@ -37,6 +37,17 @@ _Website where to learn irregular verbs using react and nextjs_
 
 **Server**: vercel serveless
 
+
+## [iVerb fe](https://iverb.netlify.app) using node api and vuejs
+
+**Frontend**: Vuejs + Nuxtjs + bootstrap
+
+**Backend**: expressjs API [https://iverbapi.onrender.com](https://iverbapi.onrender.com) 
+
+**Server**: netlify serveless
+
+**URL** : [https://iverb.netlify.app](https://iverb.netlify.app)
+
 ---
 
 ## [https://lowfodmap.huckbit.com/](https://lowfodmap.huckbit.com/)
