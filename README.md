@@ -16,7 +16,9 @@ _Css spinners website where you can copy markup and css and use it on your websi
 
 ---
 
-## [iVerb.huckbit.com](https://iverb.huckbit.com/)
+## iVerb api [https://iverbapi.onrender.com](https://iverbapi.onrender.com) 
+
+:warning: deployed on **render** free plan, first response could be slow
 
 _Website where to learn irregular verbs_
 
@@ -24,10 +26,10 @@ _Website where to learn irregular verbs_
 
 **Backend**: express.js
 
-**Api-endpoint**: [https://iverbapi.herokuapp.com/api](https://iverbapi.herokuapp.com/api)
+**Api-endpoint**: [https://iverbapi.onrender.com](https://iverbapi.onrender.com)
 
 
-## [iVerb react version](https://iverb.vercel.app/)
+## [iVerb nextjs fe](https://iverb.huckbit.com/)
 
 _Website where to learn irregular verbs using react and nextjs_
 
@@ -40,6 +42,8 @@ _Website where to learn irregular verbs using react and nextjs_
 ---
 
 ## [https://lowfodmap.huckbit.com/](https://lowfodmap.huckbit.com/)
+
+:warning: deployed on **render** free plan, first rendering could be slow
 
 _Lowfodmap diet website where to search for food properties using different query levels_
 
