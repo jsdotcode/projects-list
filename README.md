@@ -16,15 +16,13 @@ _Css spinners website where you can copy markup and css and use it on your websi
 
 ---
 
-## iVerb api [https://iverbapi.onrender.com](https://iverbapi.onrender.com) 
+## iVerb api [https://iverbapi.huckbit.com/api](https://iverbapi.huckbit.com/api) 
 
-:warning: deployed on **render.com** free plan, first response could be slow
+**Api documentation**: 👉 visit [https://iverbapi.huckbit.com/help](https://iverbapi.huckbit.com/help) for the list of the endpoints
 
-_Website where to learn irregular verbs_
+_API dedicate to english irregular verbs_
 
 **Backend**: express.js
-
-**Api documentation**: [https://iverb.netlify.app/documentation](https://iverb.netlify.app/documentation)
 
 
 ## [iVerb nextjs fe](https://iverb.huckbit.com/)
