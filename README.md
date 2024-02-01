@@ -1,10 +1,21 @@
 # Max's projects
 
-## [extracturls.huckbit.com](https://extracturls.huckbit.com/)
+## [extract-urls (NPM Package)](https://www.npmjs.com/package/extract-urls) 
+
+Description: Developed and published an NPM package named "extract-urls," designed to streamline and simplify the process of extracting URLs from text content. 
+I mantain the package from feedback/improvements by the community that is using it in their projects. 
+
+**npm package:** [https://www.npmjs.com/package/extract-urls](https://www.npmjs.com/package/extract-urls) 
+
+**Gitub repository:** [https://github.com/huckbit/extract-urls](https://github.com/huckbit/extract-urls)
+
+---
+
+## [extracturls.huckbit.com](https://extracturls.huckbit.com/) live example
 
 _Website implementation example using the plugin [extract-urls](https://www.npmjs.com/package/extract-urls) I developed and published on npm_
 
-**Frontend**: React
+**tech used**: React deployed on github pages
 
 ---
 
@@ -35,8 +46,15 @@ _Website where to learn irregular verbs using react and nextjs_
 
 **Server**: vercel serveless
 
+---
 
-## [iVerb fe](https://iverb.netlify.app) using node api and vuejs
+## iVerb graphQL implementation
+
+**endopoint** [https://iverb-graphql.vercel.app/graphql](https://iverb-graphql.vercel.app/graphql)
+
+---
+
+## [iVerb fe](https://iverb.netlify.app) using node api and vuejs old project
 
 **Frontend**: Vuejs + Nuxtjs + bootstrap
 
@@ -56,7 +74,7 @@ _Lowfodmap diet website where to search for food properties using different quer
 
 **Frontend**: vuejs (nuxtjs)
 
-**Backend**: express.js
+**Backend**: Api express.js and mongoDB
 
 **Api-endpoint**: [https://lowfodmap.herokuapp.com/api](https://lowfodmap.herokuapp.com/api)
 
