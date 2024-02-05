@@ -30,15 +30,11 @@ _API dedicate to english irregular verbs_
 
 ### iVerb website 
 
-_Website nd nextjs_
-
 **URL**: [https://iverb.huckbit.com/](https://iverb.huckbit.com/)
 
 **Frontend**: React + material UI + styled-components
 
 **Backend**: json file served by nextjs api
-
-**Server**: vercel serveless
 
 
 ### graphQL implementation
