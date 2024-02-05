@@ -1,9 +1,8 @@
 # Max's side projects
 
-## extract-urls projects 
+## extract-urls project
 
-Developed and published an NPM package named `extract-urls` designed to streamline and simplify the process of extracting URLs from text content. 
-I mantain the package from feedback/improvements by the community that is using it in their projects. 
+_Developed and published an NPM package named `extract-urls` designed to streamline and simplify the process of extracting URLs from text content. I mantain the package from feedback/improvements by the community that is using it in their projects._
 
 **npm package:** [https://www.npmjs.com/package/extract-urls](https://www.npmjs.com/package/extract-urls) 
 
@@ -16,7 +15,7 @@ I mantain the package from feedback/improvements by the community that is using 
 **tech used**: React deployed on github pages
 
 ---
-## iverb Project
+## iVerb Project
 
 I sometimes have problems remembering all the irreguar verbs coniugation so I made an Api and wesite for learning irregular verbs
 
@@ -84,6 +83,7 @@ _App to save bookmarks - work in progress. Ask for credentials or register a new
 
 **Backend**: express.js
 
+---
 
 ## My IP
 
