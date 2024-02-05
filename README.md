@@ -17,16 +17,11 @@ _Developed and published an NPM package named `extract-urls` designed to streaml
 ---
 ## iVerb Project
 
-I sometimes have problems remembering all the irreguar verbs coniugation so I made an Api and wesite for learning irregular verbs
+_Being not a native english speaker I have sometimes problems remembering all the irreguar verbs coniugation. So I made an Api and wesite for learning irregular verbs_
 
-### iVerb api [https://iverbapi.huckbit.com/api](https://iverbapi.huckbit.com/api) 
-
-**Api documentation**: 👉 visit [https://iverbapi.huckbit.com/help](https://iverbapi.huckbit.com/help) for the list of the endpoints
-
-_API dedicate to english irregular verbs_
+**api endpoint**: [https://iverbapi.huckbit.com/api](https://iverbapi.huckbit.com/api) 
 
 **Backend**: express.js
-
 
 ### iVerb website 
 
@@ -39,14 +34,13 @@ _API dedicate to english irregular verbs_
 
 ### graphQL implementation
 
-**endopoint** [https://iverb-graphql.vercel.app/graphql](https://iverb-graphql.vercel.app/graphql)
+**Graphql endopoint** [https://iverb-graphql.vercel.app/graphql](https://iverb-graphql.vercel.app/graphql)
 
 ---
 
 ## Low FODMAP project
 
-Low FODMAP refers to a diet that restricts the intake of certain types of carbohydrates known as FODMAPs, which stands for Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols. 
-I made an API to manage the FODMAP data.
+_Low FODMAP refers to a diet that restricts the intake of certain types of carbohydrates known as FODMAPs, which stands for Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols. I made an API to manage the FODMAP data._
 
 **URL:** [https://lowfodmap.huckbit.com/](https://lowfodmap.huckbit.com/)
 
