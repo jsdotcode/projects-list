@@ -15,7 +15,7 @@ _Developed and published an NPM package named `extract-urls` designed to streaml
 **Tech used**: React deployed on github pages
 
 ---
-## iVerb Project
+## iVerb project
 
 _Being not a native english speaker I sometimes have problems remembering all the irregular verb conjugation. So I made an Api and website for learning irregular verbs_
 
@@ -53,7 +53,7 @@ _Low FODMAP refers to a diet that restricts the intake of certain types of carbo
 ---
 
 
-## css3 loaders projects
+## css3 loaders project
 
 _Css collection of spinners that can be used as loading animation coping markup and css and pasting it into the website code._
 
@@ -63,7 +63,7 @@ _Css collection of spinners that can be used as loading animation coping markup 
 
 ---
 
-## My bookmarks app
+## My bookmarks app project
 
 _App to save bookmarks - work in progress. Ask for credentials or register a new account to use it._
 
@@ -75,7 +75,7 @@ _App to save bookmarks - work in progress. Ask for credentials or register a new
 
 ---
 
-## My IP
+## My IP project
 
 _App that consumes an API and returns the user public ip address_
 
