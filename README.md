@@ -10,9 +10,9 @@ _Developed and published an NPM package named `extract-urls` designed to streaml
 
 ### Website implementation example using the npm package
 
-**URL** [extracturls.huckbit.com](https://extracturls.huckbit.com/) live example
+**URL**: [extracturls.huckbit.com](https://extracturls.huckbit.com/)
 
-**tech used**: React deployed on github pages
+**Tech used**: React deployed on github pages
 
 ---
 ## iVerb Project
