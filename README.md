@@ -1,4 +1,4 @@
-# Max's projects
+# Max's side projects
 
 ## [extract-urls (NPM Package)](https://www.npmjs.com/package/extract-urls) 
 
