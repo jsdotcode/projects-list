@@ -2,7 +2,7 @@
 
 ## extract-urls project
 
-_Developed and published an NPM package named `extract-urls` designed to streamline and simplify the process of extracting URLs from text content. I mantain the package from feedback/improvements by the community that is using it in their projects._
+_Developed and published an NPM package named `extract-urls` designed to streamline and simplify the process of extracting URLs from text content. I curate and enhance the package through community feedback and collaborative improvements from those who integrated it into their projects._
 
 **npm package:** [https://www.npmjs.com/package/extract-urls](https://www.npmjs.com/package/extract-urls) 
 
@@ -17,7 +17,7 @@ _Developed and published an NPM package named `extract-urls` designed to streaml
 ---
 ## iVerb Project
 
-_Being not a native english speaker I have sometimes problems remembering all the irreguar verbs coniugation. So I made an Api and wesite for learning irregular verbs_
+_Being not a native english speaker I sometimes have problems remembering all the irregular verb conjugation. So I made an Api and website for learning irregular verbs_
 
 **api endpoint**: [https://iverbapi.huckbit.com/api](https://iverbapi.huckbit.com/api) 
 
@@ -40,7 +40,7 @@ _Being not a native english speaker I have sometimes problems remembering all th
 
 ## Low FODMAP project
 
-_Low FODMAP refers to a diet that restricts the intake of certain types of carbohydrates known as FODMAPs, which stands for Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols. I made an API to manage the FODMAP data._
+_Low FODMAP refers to a diet that restricts the intake of certain types of carbohydrates known as FODMAPs, which stands for Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols. I created an API to manage the FODMAP data._
 
 **URL:** [https://lowfodmap.huckbit.com/](https://lowfodmap.huckbit.com/)
 
@@ -55,7 +55,7 @@ _Low FODMAP refers to a diet that restricts the intake of certain types of carbo
 
 ## css3 loaders projects
 
-_Css collection of spinners that you can use as loading animation coping markup and css and use it on your website._
+_Css collection of spinners that can be used as loading animation coping markup and css and pasting it into the website code._
 
 **URL**: [css3loaders.com](https://css3loaders.com/)
 
@@ -77,7 +77,7 @@ _App to save bookmarks - work in progress. Ask for credentials or register a new
 
 ## My IP
 
-_App that counsumes an API to check your public ip address_
+_App that consumes an API and returns the user public ip address_
 
 **URL**: [myip.huckbit.com](https://myip.huckbit.com/)
 **Frontend**: React
