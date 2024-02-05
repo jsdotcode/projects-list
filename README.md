@@ -16,14 +16,6 @@ I mantain the package from feedback/improvements by the community that is using 
 **tech used**: React deployed on github pages
 
 ---
-
-## [css3loaders.com](https://css3loaders.com/)
-
-_Css spinners website where you can copy markup and css and use it on your website._
-
-**Frontend**: React
-
----
 ## iverb Project
 
 I sometimes have problems remembering all the irreguar verbs coniugation so I made an Api and wesite for learning irregular verbs
@@ -68,6 +60,17 @@ I made an API to manage the FODMAP data.
 **Backend**: Api made with express.js and mongoDB
 
 **Api-endpoint**: [https://lowfodmap.huckbit.com/api](https://lowfodmap.huckbit.com/api)
+
+---
+
+
+## css3 loaders projects
+
+_Css collection of spinners that you can use as loading animation coping markup and css and use it on your website._
+
+**URL**: [css3loaders.com](https://css3loaders.com/)
+
+**Frontend**: React
 
 ---
 
