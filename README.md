@@ -1,19 +1,17 @@
 # Max's side projects
 
-## [extract-urls (NPM Package)](https://www.npmjs.com/package/extract-urls) 
+## extract-urls projects 
 
-Description: Developed and published an NPM package named "extract-urls," designed to streamline and simplify the process of extracting URLs from text content. 
+Developed and published an NPM package named `extract-urls` designed to streamline and simplify the process of extracting URLs from text content. 
 I mantain the package from feedback/improvements by the community that is using it in their projects. 
 
 **npm package:** [https://www.npmjs.com/package/extract-urls](https://www.npmjs.com/package/extract-urls) 
 
 **Gitub repository:** [https://github.com/huckbit/extract-urls](https://github.com/huckbit/extract-urls)
 
----
+### Website implementation example using the npm package
 
-## [extracturls.huckbit.com](https://extracturls.huckbit.com/) live example
-
-_Website implementation example using the plugin [extract-urls](https://www.npmjs.com/package/extract-urls) I developed and published on npm_
+**URL** [extracturls.huckbit.com](https://extracturls.huckbit.com/) live example
 
 **tech used**: React deployed on github pages
 
