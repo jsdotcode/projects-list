@@ -74,19 +74,22 @@ _Css collection of spinners that you can use as loading animation coping markup 
 
 ---
 
-## [https://mybmarks.herokuapp.com](https://mybmarks.herokuapp.com/users/register)
+## My bookmarks app
 
 _App to save bookmarks - work in progress. Ask for credentials or register a new account to use it._
 
-**Frontend**: handlebar within express.js
+**URL**: [https://mybmarks.herokuapp.com](https://mybmarks.herokuapp.com/users/register)
+
+**Frontend**: handlebar and bootstrap
 
 **Backend**: express.js
 
 
-## [myip.huckbit.com](https://myip.huckbit.com/)
+## My IP
 
-_Check your public ip address_
+_App that counsumes an API to check your public ip address_
 
+**URL**: [myip.huckbit.com](https://myip.huckbit.com/)
 **Frontend**: React
 
 ---
