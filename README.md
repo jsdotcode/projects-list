@@ -26,8 +26,11 @@ _Css spinners website where you can copy markup and css and use it on your websi
 **Frontend**: React
 
 ---
+## iverb Project
 
-## iVerb api [https://iverbapi.huckbit.com/api](https://iverbapi.huckbit.com/api) 
+I sometimes have problems remembering all the irreguar verbs coniugation so I made an Api and wesite for learning irregular verbs
+
+### iVerb api [https://iverbapi.huckbit.com/api](https://iverbapi.huckbit.com/api) 
 
 **Api documentation**: 👉 visit [https://iverbapi.huckbit.com/help](https://iverbapi.huckbit.com/help) for the list of the endpoints
 
@@ -36,9 +39,11 @@ _API dedicate to english irregular verbs_
 **Backend**: express.js
 
 
-## [iVerb nextjs fe](https://iverb.huckbit.com/)
+### iVerb website 
 
-_Website where to learn irregular verbs using react and nextjs_
+_Website nd nextjs_
+
+**URL**: [https://iverb.huckbit.com/](https://iverb.huckbit.com/)
 
 **Frontend**: React + material UI + styled-components
 
@@ -46,37 +51,25 @@ _Website where to learn irregular verbs using react and nextjs_
 
 **Server**: vercel serveless
 
----
 
-## iVerb graphQL implementation
+### graphQL implementation
 
 **endopoint** [https://iverb-graphql.vercel.app/graphql](https://iverb-graphql.vercel.app/graphql)
 
 ---
 
-## [iVerb fe](https://iverb.netlify.app) using node api and vuejs old project
+## Low FODMAP project
 
-**Frontend**: Vuejs + Nuxtjs + bootstrap
+Low FODMAP refers to a diet that restricts the intake of certain types of carbohydrates known as FODMAPs, which stands for Fermentable Oligosaccharides, Disaccharides, Monosaccharides, and Polyols. 
+I made an API to manage the FODMAP data.
 
-**Backend**: expressjs API [https://iverbapi.onrender.com](https://iverbapi.onrender.com) 
+**URL:** [https://lowfodmap.huckbit.com/](https://lowfodmap.huckbit.com/)
 
-**Server**: netlify serveless
+**Frontend**: handlebars
 
-**URL** : [https://iverb.netlify.app](https://iverb.netlify.app)
+**Backend**: Api made with express.js and mongoDB
 
----
-
-## [https://lowfodmap.huckbit.com/](https://lowfodmap.huckbit.com/)
-
-:warning: deployed on **render.com** free plan, first rendering could be slow
-
-_Lowfodmap diet website where to search for food properties using different query levels_
-
-**Frontend**: vuejs (nuxtjs)
-
-**Backend**: Api express.js and mongoDB
-
-**Api-endpoint**: [https://lowfodmap.herokuapp.com/api](https://lowfodmap.herokuapp.com/api)
+**Api-endpoint**: [https://lowfodmap.huckbit.com/api](https://lowfodmap.huckbit.com/api)
 
 ---
 
