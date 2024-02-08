@@ -57,7 +57,7 @@ _Low FODMAP refers to a diet that restricts the intake of certain types of carbo
 
 _Css collection of spinners that can be used as loading animation coping markup and css and pasting it into the website code._
 
-🔗  **URL**: [css3loaders.com](https://css3loaders.com/)
+🔗  **URL**: [https://css3loaders.huckbit.com](https://css3loaders.huckbit.com)
 
 **Frontend**: React
 
